@@ -82,6 +82,14 @@ trained network to predict test data to create a predicted probabilities matrix.
 accuracy:  0.159782304942446
 ```
 
+Additionally, some charts depicting loss and perplexity functions over 20 epochs.
+
+## Loss
+![image](https://github.com/LyleVanfossan/AFRL_Challenge_transformer/assets/60833582/5b0fb977-5412-4cdd-aff1-87d518788dba)
+
+## Perplexity
+![image](https://github.com/LyleVanfossan/AFRL_Challenge_transformer/assets/60833582/2a810e76-e164-418c-899b-a2d85f3c995d)
+
 ## Positional encoding
 Standard positional encoding algorithm using sine and cosine functions.
 ```python
